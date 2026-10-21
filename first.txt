@@ -1,0 +1,3 @@
+Hi,
+This is my first file. 
+I will be using Git to demonstrate. 
